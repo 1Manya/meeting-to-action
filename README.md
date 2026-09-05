@@ -2,7 +2,7 @@
 
 Turn raw meeting notes into structured decisions, tasks, and follow-ups —> reviewed and confirmed by a human before anything gets pushed to a real project-management tool.
 
-**Live demo:** [[PASTE YOUR VERCEL URL HERE](https://meeting-to-action-three.vercel.app/)]
+**Live demo:** [[meeting-to-action](https://meeting-to-action-three.vercel.app/)]
 *(Backend runs on Render's free tier — first request after inactivity can take 30-60s to wake up.)*
 
 **Core idea:** AI drafts, humans decide. Every extracted item stays fully editable, and nothing reaches Notion until a person explicitly confirms it.
