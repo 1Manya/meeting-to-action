@@ -20,11 +20,11 @@ flowchart LR
     BE --> NOTION["Notion API<br/>sync"]
 
     style User fill:#1a2421,stroke:#1a2421,color:#f5f6f3
-    style FE fill:#e3ebf2,stroke:#5b7fa6,color:#f5f6f3
-    style BE fill:#e2eae6,stroke:#3f6659
-    style DB fill:#f1e5da,stroke:#a66a3f
-    style LLM fill:#e2eae6,stroke:#3f6659
-    style NOTION fill:#e3ebf2,stroke:#5b7fa6
+    style FE fill:#f5f6f3,stroke:#5b7fa6
+    style BE fill:#f5f6f3,stroke:#3f6659
+    style DB fill:#f5f6f3,stroke:#a66a3f
+    style LLM fill:#f5f6f3,stroke:#3f6659
+    style NOTION fill:#f5f6f3,stroke:#5b7fa6
 ```
 
 ---
