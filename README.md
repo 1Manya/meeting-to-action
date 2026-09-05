@@ -114,9 +114,8 @@ Built to demonstrate:
 
 ---
 
-## Screenshots
-
-*(Add 2-3 screenshots here — input screen, generated item cards, and a confirmed/synced state.)*
+## live demo 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/11d95236-aea7-4dc2-901c-42806b913dec" />
 
 ---
 
