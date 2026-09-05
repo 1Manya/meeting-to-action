@@ -115,7 +115,7 @@ Built to demonstrate:
 ---
 
 ## live demo 
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/11d95236-aea7-4dc2-901c-42806b913dec" />
+<img width="3200" height="1500" alt="image" src="https://github.com/user-attachments/assets/11d95236-aea7-4dc2-901c-42806b913dec" />
 
 ---
 
